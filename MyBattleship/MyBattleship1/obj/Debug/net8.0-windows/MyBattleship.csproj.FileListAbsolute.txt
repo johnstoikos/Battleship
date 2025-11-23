@@ -1,0 +1,16 @@
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\bin\Debug\net8.0-windows\MyBattleship.exe
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\bin\Debug\net8.0-windows\MyBattleship.deps.json
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\bin\Debug\net8.0-windows\MyBattleship.runtimeconfig.json
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\bin\Debug\net8.0-windows\MyBattleship.dll
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\bin\Debug\net8.0-windows\MyBattleship.pdb
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.MainForm.resources
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.csproj.GenerateResource.cache
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.AssemblyInfoInputs.cache
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.AssemblyInfo.cs
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.csproj.CoreCompileInputs.cache
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.dll
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\refint\MyBattleship.dll
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.pdb
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\MyBattleship.genruntimeconfig.cache
+C:\Users\johns\OneDrive\Υπολογιστής\AAE_2025_ERGASIA\MyBattleship\MyBattleship1\obj\Debug\net8.0-windows\ref\MyBattleship.dll
